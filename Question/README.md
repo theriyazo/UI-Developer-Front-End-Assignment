@@ -10,4 +10,6 @@ Please make a web page where you will integrate the api from this website and im
 
 You can share the github repo with me once you complete the Assignment.
 
-<img scr="" />
+### Screenshot
+
+<img width="400px" src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Question/Question%20Email%20Screenshot/Assignement%20Email.png" />
