@@ -63,6 +63,6 @@
 <img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/senario%204.png" />
 
 ## Credits:
-Developed and Designed by RiyazAhamad (theriyazo)
+Designed and Developed by RiyazAhamad (theriyazo)
 
 [LinkedIn](https://www.linkedin.com/in/theriyazo) • [Twitter](https://www.twitter.com/theriyazo)
