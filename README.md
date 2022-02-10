@@ -7,7 +7,7 @@
 
 
 + For Security resons the API Key is not specified in the code.
-+ Please copy-paste your OMDB `API_KEY` in the: [script.js](https://github.com/theriyazo/Front-End-Assignment/blob/main/Scripts/script.js)
++ Please copy-paste your OMDB `API_KEY` in the: [script.js](https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Scripts/script.js)
 
 ## How to Use the app?
 1. Enter the movie title to search
@@ -41,26 +41,26 @@
 <table>
   <tr>
     <td>
-        <img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/HomePage.png" />
+        <img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/HomePage.png" />
     </td>
     <td>
-      <img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/HomePage-%20with%20result.png" />
+      <img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/HomePage-%20with%20result.png" />
     </td>
   </tr>
 </table>
 
 ## How does it work?(ScreenShots)
 ### 1️⃣ Landing Page
-<img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/senario%201.png?raw=true" />
+<img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/senario%201.png?raw=true" />
 
 ### 2️⃣ After Successful API fetch
-<img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/senario%202.png" />
+<img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/senario%202.png" />
 
 ### 3️⃣ If the user clicks the search button or [Enter] key. 
-<img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/senario%203.png" />
+<img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/senario%203.png" />
 
 ### 4️⃣ If the Movie is not found.
-<img src="https://github.com/theriyazo/Front-End-Assignment/blob/main/Assets/senario%204.png" />
+<img src="https://github.com/theriyazo/UI-Developer-Front-End-Assignment/blob/main/Assets/senario%204.png" />
 
 ## Credits:
 Developed and Designed by RiyazAhamad (theriyazo)
